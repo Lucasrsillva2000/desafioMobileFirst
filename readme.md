@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Space Cream é uma página simples para treinar e testar a responsividade de imagens e textos para Mobile usando a técnica de MobileFirst dentro do HTML e CSS.
 
-- [Visite o projeto online](https://lucasrsillva2000.github.io/DesafioMobileFirst/)
+- [Visite o projeto online](https://lucasrsillva2000.github.io/desafioMobileFirst/)
 
 ## 🔖 Layout
 
